@@ -1,0 +1,25 @@
+{
+  "name": "v_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon chat-v.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "cookie-session": "^1.3.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.0",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.10",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^2.0.0",
+    "path": "^0.12.7",
+    "socket.io": "^2.2.0"
+  }
+}
